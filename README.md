@@ -10,4 +10,6 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusGuterres&theme=buefy"/></td>
     </tr>   
 </table>
-</center>  
+</center>
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,typescript,nodejs,nestjs,aws,linux,mongodb,postgres,redis)](https://skillicons.dev)
