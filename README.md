@@ -8,6 +8,8 @@ Committed to continuous learning and growth in cloud environments and full-stack
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-carvalho-guterres/)
 
+<br>
+
 
 <center>
 <table>
@@ -18,13 +20,16 @@ Committed to continuous learning and growth in cloud environments and full-stack
 </table>
 </center>
 
+<br>
+
+
 ## Latest Blog Posts  
 
 <!-- <a href="https://www.linkedin.com/in/vinicius-carvalho-guterres/recent-activity/articles/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br> -->
 <!-- BLOG-POST-LIST:START -->
 - [Do You Know When To Use JavaScript BigInt? 👀](https://www.linkedin.com/pulse/do-you-know-when-use-javascript-bigint-vinicius-carvalho-guterres-cdclf/?trackingId=b6v%2BNd82TJqYKUPXjBxdnQ%3D%3D)
 
-<!-- <br> -->
+<br>
 <!-- <hr> -->
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
