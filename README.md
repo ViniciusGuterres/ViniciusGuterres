@@ -29,7 +29,6 @@ Committed to continuous learning and growth in cloud environments and full-stack
 <!-- BLOG-POST-LIST:START -->
 - [Do You Know When To Use JavaScript BigInt? 👀](https://www.linkedin.com/pulse/do-you-know-when-use-javascript-bigint-vinicius-carvalho-guterres-cdclf/?trackingId=b6v%2BNd82TJqYKUPXjBxdnQ%3D%3D)
 
-<br>
 <!-- <hr> -->
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
