@@ -1,4 +1,4 @@
-### Hello world! My name is **Vinicius** 🤘🧑‍💻
+### Hi! My name is **Vinicius** 🇧🇷🤘🧑‍💻
 
 Experienced full-stack developer with over 3 years of expertise in React.js, Node.js, and AWS serverless cloud architecture. I am skilled in developing scalable, real-time communications and high-traffic data applications such as audio streaming and live positioning.
 
