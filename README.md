@@ -1,10 +1,10 @@
 ### Hi! My name is **Vinicius** 🇧🇷🤘🧑‍💻
 
-Experienced full-stack developer with over 3 years of expertise in React.js, Node.js, and AWS serverless cloud architecture. I am skilled in developing scalable, real-time communications and high-traffic data applications such as audio streaming and live positioning.
+Full-stack developer transforming complex requirements into robust solutions through React.js, Node.js, and AWS serverless architecture. During my 3+ years in the field, I've engineered high-performance applications that process real-time data at scale, from audio streaming services to precision location tracking systems.
 
-Proficient in managing full project life-cycles in 24/7 environments and handling mission-critical systems for large-scale electronic prisoner monitoring operations.
+I've architected and maintained mission-critical 24/7 infrastructure for electronic prisoner monitoring operations where system reliability directly impacts public safety. This work demanded meticulous attention to performance optimization, security hardening, and fault tolerance.
 
-Committed to continuous learning and growth in cloud environments and full-stack development, with a focus on driving innovation and delivering high-quality, scalable web applications.
+Currently expanding my technical depth in distributed systems and cloud-native development to build next-generation applications that balance scalability, cost-efficiency, and user experience.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-carvalho-guterres/)
 
