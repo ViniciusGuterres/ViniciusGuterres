@@ -1,6 +1,6 @@
 ### Hi! My name is **Vinicius** 🇧🇷🤘🧑‍💻
 
-Full-stack developer transforming complex requirements into robust solutions through React.js, Node.js, and AWS serverless architecture. During my 3+ years in the field, I've engineered high-performance applications that process real-time data at scale, from audio streaming services to precision location tracking systems.
+Full-stack developer transforming complex requirements into robust solutions through React.js, Node.js, and AWS serverless architecture. During my 4+ years in the field, I've engineered high-performance applications that process real-time data at scale, from audio streaming services to precision location tracking systems.
 
 I've architected and maintained mission-critical 24/7 infrastructure for electronic prisoner monitoring operations where system reliability directly impacts public safety. This work demanded meticulous attention to performance optimization, security hardening, and fault tolerance.
 
