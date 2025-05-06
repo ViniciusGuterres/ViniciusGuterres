@@ -1,4 +1,4 @@
-### Hi! My name is **Vinicius** 🇧🇷🤘🧑‍💻
+### Hi! My name is **Vinicius** 🤘🧑‍💻🇧🇷
 
 Full-stack developer transforming complex requirements into robust solutions through React.js, Node.js, and AWS serverless architecture. During my 4+ years in the field, I've engineered high-performance applications that process real-time data at scale, from audio streaming services to precision location tracking systems.
 
