@@ -20,10 +20,10 @@ Currently expanding my technical depth in distributed systems and cloud-native d
 <!-- Most used languages metrics -->
 
 <center>
-<table>
+<!-- <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusGuterres&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusGuterres&theme=buefy"/></td>
     </tr>   
-</table>
+</table> -->
 </center>
